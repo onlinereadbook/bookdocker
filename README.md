@@ -1,6 +1,6 @@
 # 歡迎大家加入線上Docker讀書會
 
-## [讀書會注意事項](https://github.com/onlinereadbook/bookdocker/tree/master/讀書會注意事項/README.md))
+## [讀書會注意事項](https://github.com/onlinereadbook/bookdocker/tree/master/讀書會注意事項/README.md)
 
 ## [讀書會過往影片及討論區](https://github.com/onlinereadbook/bookdocker/tree/master/讀書會過往影片及討論區/README.md)
 
