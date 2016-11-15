@@ -4,7 +4,7 @@
 
 | 日期 | 主講者 | 標題 | 簡報連結 | 影片連結 | 討論區 |
 | ---- | ----- | ---- | ---- | ---- | ----- |
-| 11/09 | Miles Chou | Rancher 從入門到入坑 | [簡報](https://docs.google.com/presentation/d/1AzCxiKMR9nBbfWfDa-0fFaEg1CX_PJC3culmPMa7Ut8/) | [影片](https://www.facebook.com/tails32100/videos/1457652537581704/) | [討論](https://www.facebook.com/groups/750311598438135/permalink/868576629944964/) |
+| 11/09 | Miles Chou | Rancher 從入門到入坑 | [簡報](https://docs.google.com/presentation/d/1AzCxiKMR9nBbfWfDa-0fFaEg1CX_PJC3culmPMa7Ut8/) | [影片](https://www.youtube.com/watch?v=wQ0cchhmeG0) | [討論](https://www.facebook.com/groups/750311598438135/permalink/868576629944964/) |
 | 10/09 | 相安主攻 | Docker Compose 建 nginx link nodejs | 暫無 | [影片](https://www.facebook.com/readbook999/videos/1814243302151425/) | 暫無 |
 | 9/14 | Willy Kuo | Docker Networks | 暫無 | [影片](https://www.youtube.com/watch?v=L3ZkY3yaPZI&feature=youtu.be) | 暫無 |
 | 9/7 | James Tseng | Docker with Docker-compose 不專業實務分享 | 暫無 | [影片](https://www.youtube.com/watch?v=P-pPue8pj2s&feature=youtu.be) | 暫無 |
