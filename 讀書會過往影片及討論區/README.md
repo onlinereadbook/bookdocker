@@ -4,7 +4,7 @@
 
 | 日期 | 主講者 | 標題 | 簡報連結 | 影片連結 | 討論區 |
 | ---- | ----- | ---- | ---- | ---- | ----- |
-| 01/13 | ? | 線上日常攻略 docker X nginx 反向代理 | 無 | [影片](https://www.youtube.com/watch?v=KbjhrR9qmJI) | [討論](https://www.facebook.com/groups/750311598438135/permalink/868576629944964/) |
+| 01/13 | 暫無 | 線上日常攻略 docker X nginx 反向代理 | 暫無 | [影片](https://www.youtube.com/watch?v=KbjhrR9qmJI) | 暫無 |
 
 ## 2016
 
